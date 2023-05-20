@@ -8,8 +8,10 @@ body {
 .title-text,
 .example-text {
     color: rgb(255, 238, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 .title-text {
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-size: 40px;
 }
