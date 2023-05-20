@@ -6,10 +6,16 @@ body {
 }
 
 .title-text,
-.example-text {
+.nijika-pledge {
     color: rgb(255, 238, 0);
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+}
+
+#bowtie {
+    color: red;
+    text-align: center;
+    font-size: 60px;
 }
 
 .title-text {
